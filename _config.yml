@@ -11,9 +11,9 @@ pygments: true
 #
 title : "Anna-Marie Woodard's Blog"
 tagline: "And it is AWESOME"
-author :"Anna-Marie Woodard"
+author : 
   name : "Anna-Marie Woodard"
-  email : 
+  email : "awoodard@gild.com"
   twitter : "AnnaWoodard"
   feedburner : 
 
